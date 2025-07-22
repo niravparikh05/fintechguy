@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Paralus",
+		"description": "Zero trust Kubernetes with zero friction.",
+		"image": "/assets/images/projects/paralus-info.jpg",
+		"url": "https://www.paralus.io/"
+	},
+	{
+		"name": "Ginie AI",
+		"description": "Simplify cloud infrastructure using natural language.",
+		"image": "/assets/images/projects/ginie-ai.png",
+		"url": "https://github.com/niravparikh05/ginie-ai"
+	},
+	{
+		"name": "Rui",
+		"description": "Discover timeless elegance with our curated collection of women’s Indian traditional wear",
+		"image": "/assets/images/projects/rui-sustainable.png",
+		"url": "https://www.ruifashion.in/"
+	},
+	{
+		"name": "Financial Advisor Reviews & Ratings",
+		"description": "Discover & Connect with SEBI Registered Investment Advisors",
+		"image": "/assets/images/projects/finmantech.jpeg",
+		"url": "https://github.com/niravparikh05/portfolio-manager-ux"
+	}
+]

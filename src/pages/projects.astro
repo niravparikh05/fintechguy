@@ -1,0 +1,32 @@
+---
+import projects from "../collections/projects.json";
+import PageHeading from "../components/page-heading.astro";
+import Project from "../components/project.astro";
+import Layout from "../layouts/main.astro";
+---
+
+<Layout title="My Work so far!">
+  <section class="relative z-20 max-w-2xl mx-auto my-12 px-7 lg:px-0">
+    <PageHeading
+      title="My Work so far!"
+      description="Here’s a glimpse into what I’ve been building lately. I love experimenting with fresh ideas and turning concepts into real-world projects. New things are always brewing—come back soon for more!"
+    />
+
+    <div
+      class="z-50 grid items-stretch w-full grid-cols-1 my-8 gap-7 sm:gap-5 sm:grid-cols-2"
+    >
+      {
+        projects.map((project) => {
+          return (
+            <Project
+              name={project.name}
+              description={project.description}
+              image={project.image}
+              url={project.url}
+            />
+          )
+        })
+      }
+    </div>
+  </section>
+</Layout>

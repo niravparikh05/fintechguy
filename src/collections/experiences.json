@@ -1,0 +1,38 @@
+[
+	{
+	  "dates": "Apr 2025 · Present",
+	  "role": "Lead Product Engineer",
+	  "company": "Improving",
+	  "description": "Leading platform engineering for Kubernetes-based infrastructure provisioning and developer self-service. Scaled infra across 50+ clusters, enabled 10% cost savings with dynamic autoscaling, and built event-driven systems using Golang, Kafka, and Terraform. Manage team of 5–7 engineers and drive cross-functional collaboration.",
+	  "logo": "/assets/images/experiences/improving.png"
+	},
+	{
+		"dates": "Nov 2021 · Mar 2024",
+		"role": "Staff Product Engineer",
+		"company": "InfraCloud Technologies ( An Improving Company )",
+		"description": "Leading platform engineering for Kubernetes-based infrastructure provisioning and developer self-service. Scaled infra across 50+ clusters, enabled 10% cost savings with dynamic autoscaling, and built event-driven systems using Golang, Kafka, and Terraform. Manage team of 5–7 engineers and drive cross-functional collaboration.",
+		"logo": "/assets/images/experiences/infracloud.png"
+	  },
+	{
+	  "dates": "Oct 2016 · Oct 2021",
+	  "role": "Senior Consultant",
+	  "company": "Cognizant (Client: SEI Investments)",
+	  "description": "Modernized trading systems by containerizing apps and deploying via Kubernetes on Azure. Automated CI/CD with Jenkins, improving uptime by 25% and reducing release overhead by 50%. Delivered mission-critical fintech capabilities like pre/post-market trading.",
+	  "logo": "/assets/images/experiences/cognizant.png"
+	},
+	{
+	  "dates": "Jan 2014 · Sep 2016",
+	  "role": "Senior Software Engineer",
+	  "company": "Cognizant (Client: S&P Global)",
+	  "description": "Owned and automated deployment pipelines using Jenkins for Ratings services. Reduced manual effort during application upgrades, improved delivery velocity and ensured CI compliance across environments.",
+	  "logo": "/assets/images/experiences/cognizant.png"
+	},
+	{
+	  "dates": "Jul 2010 · Dec 2013",
+	  "role": "Technology Analyst",
+	  "company": "Infosys (Client: The Boeing Company)",
+	  "description": "Led development of Boeing 787 schematics module. Achieved 20% PL/SQL performance improvement. Delivered production-grade features for mission-critical aircraft maintenance platforms in aerospace domain.",
+	  "logo": "/assets/images/experiences/infosys.png"
+	}
+  ]
+  
