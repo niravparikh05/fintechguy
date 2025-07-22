@@ -228,3 +228,5 @@ Sitemap: https://yourdomain.com/sitemap-index.xml
 5. **Custom Domain**:
 
    * Point your domain DNS to Netlify site
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/40f0344c-6210-47d1-a79f-5d8a568ceff2/deploy-status)](https://app.netlify.com/projects/fintechguy/deploys)
