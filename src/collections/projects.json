@@ -22,5 +22,23 @@
 		"description": "Discover & Connect with SEBI Registered Investment Advisors",
 		"image": "/assets/images/projects/finmantech.jpeg",
 		"url": "https://github.com/niravparikh05/portfolio-manager-ux"
+	},
+	{
+		"name": "Glitz Jewels",
+		"description": "Discover exquisite jewelry pieces that blend tradition with modernity.",
+		"image": "/assets/images/projects/glitz-jewels.png",
+		"url": "https://www.glitzjewels.co.in/"
+	},
+	{
+		"name": "Personal Portfolio Website | Shilpa Ranjeet Dugar",
+		"description": "Personal Portfolio website for a leading Vaastu consultant and Energy Alignment Expert based in Coimbatore, India.",
+		"image": "/assets/images/projects/shilpa-ranjeet-dugar.png",
+		"url": "https://www.shilparanjeetdugar.com/"
+	},
+	{
+		"name": "Aquarium Science Corporation",
+		"description": "Innovative solutions for aquarium enthusiasts and professionals.",
+		"image": "/assets/images/projects/aquariumsciencecorporation.png",
+		"url": "https://www.aquariumsciencecorporation.com/"
 	}
 ]
