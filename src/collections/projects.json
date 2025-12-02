@@ -14,7 +14,7 @@
 	{
 		"name": "Rui",
 		"description": "Discover timeless elegance with our curated collection of women’s Indian traditional wear",
-		"image": "/assets/images/projects/rui-sustainable.png",
+		"image": "/assets/images/projects/rui.png",
 		"url": "https://www.ruifashion.in/"
 	},
 	{
@@ -40,5 +40,11 @@
 		"description": "Innovative solutions for aquarium enthusiasts and professionals.",
 		"image": "/assets/images/projects/aquariumsciencecorporation.png",
 		"url": "https://www.aquariumsciencecorporation.com/"
+	},
+	{
+		"name": "TrikonLife - where wellness meets sacred craft",
+		"description": "A holistic approach for wellness and holistic living.",
+		"image": "/assets/images/projects/trikonlife.png",
+		"url": "https://www.trikonlife.com/"
 	}
 ]
